@@ -1128,5 +1128,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 8847278272234897102, guid: b8bb99f1ddd998d46b0eead848d614bd,
+        type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8bb99f1ddd998d46b0eead848d614bd, type: 3}
