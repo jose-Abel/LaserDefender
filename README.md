@@ -28,7 +28,7 @@ You can either copy the code with git clone or just do a git pull on your local 
 
 
 ### Acknowledgments
-Appreciate the teams at Udemy and the creators of the course Ben Tristem, GameDev.tv Team and Rick Davidson since allows me to learn a lot of CSS and Sass concepts and design principles that is pushing my software development career higher.
+Appreciate the teams at Udemy and the creators of the course Ben Tristem, GameDev.tv Team and Rick Davidson since allows me to learn a lot of C# and using the Unity Game Engine.
 
 
 ## 📝 License
