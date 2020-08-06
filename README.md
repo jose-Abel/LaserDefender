@@ -18,7 +18,7 @@ This project
 - 👤GitHub: [Jose Abel Ramirez](https://github.com/jose-Abel)
 
 ## Getting Started
-You can clone this code anytime and open the project with Unity. Also there's a compile version included for Windows.
+You can clone this code anytime and open the project with Unity. Also there's a compile version for WebGL.
 
 ## Live version
 https://stupefied-beaver-a21c68.netlify.app/
