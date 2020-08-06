@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Laser Defender",
+"productVersion": "1.0",
+"dataUrl": "Build WebGL.data.unityweb",
+"wasmCodeUrl": "Build WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
